@@ -24,6 +24,8 @@
 
 ## 本书相关信息
 
+本仓库提供可直接阅读的 [Markdown 版本及全书目录](markdown/README.md)，包含完整章节、公式、表格、习题和参考文献，并复用仓库中的现有图片。更新方法见该目录的说明。
+
 本书的官方信息网页参见[本书信息](https://www.loongson.cn/LoongsonLab/OpenAccessLibrary)。
 
 本项目的github actions已经配置为自动生成HTML/PDF/DOCX三种输出格式并部署到github pages。三种格式的链接分别如下：
